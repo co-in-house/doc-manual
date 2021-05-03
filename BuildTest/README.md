@@ -15,7 +15,7 @@
 [取得はこちらから](https://support.apple.com/ja-jp/HT204316)
 1. Xcodeを起動して以下の手順でappleIDを登録する
     1.  ケーブルとiphoneを繋ぐ。その際にiphoneのロックを解除して以下の画像が出てきたら『信頼する』をタップ。これをしないとiPhoneとPCをつなげられません。
-    ![TrustComfirmImage](./Images/BuildTestImages/TrustComfirmImage.jpg)
+    ![TrustComfirmImage](Images/BuildTestImages/TrustComfirmImage.jpg)
     2. Xcode上の上部バーの Xcode -> Preferences... をクリック
     ![PreferencesInXcode](./Images/BuildTestImages/PreferencesInXcode.png)
     3. 以下のタブが出てきたら『Accounts』を選択
